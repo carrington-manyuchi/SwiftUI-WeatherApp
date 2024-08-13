@@ -2,5 +2,5 @@
 A simple weather app using swiftUI
 
 
-![Screenshot 2024-08-13 at 08 49 23](https://github.com/user-attachments/assets/ae3c4c4d-8ec9-495c-ad31-7261837bd065)
+![simulator_screenshot_54D02E2E-AB0B-46E3-BC8B-69764935681A](https://github.com/user-attachments/assets/8b607943-d2cd-4a4b-bfd6-7850ec8c9762)
 
